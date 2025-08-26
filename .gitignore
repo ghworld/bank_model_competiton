@@ -1,0 +1,13 @@
+
+
+.cache
+data_eda.py
+test.dat
+train.dat
+*csv
+*xlsx
+./testaa
+./train
+.ipynb_checkpoints
+./process.py 
+./初赛*
