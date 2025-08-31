@@ -1,13 +1,22 @@
 
 
 .cache
-data_eda.py
 test.dat
 train.dat
+test.dat*
+train.dat*
 *csv
+*dat
+./*/*dat
+./*/*csv
+*zip
 *xlsx
+
 ./testaa
 ./train
+bak
 .ipynb_checkpoints
-./process.py 
-./初赛*
+初赛*
+
+data/*/test.dat*
+data/*/train.dat*
